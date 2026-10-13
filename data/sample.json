@@ -1,0 +1,15 @@
+{
+  "project": "onboarding-wiki-rag",
+  "resource": "guides",
+  "samples": [
+    {
+      "id": "g1",
+      "role": "engineer",
+      "title": "Day 1",
+      "steps": [
+        "Laptop",
+        "Repos"
+      ]
+    }
+  ]
+}
